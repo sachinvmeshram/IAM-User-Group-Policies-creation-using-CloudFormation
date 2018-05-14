@@ -1,1 +1,0 @@
-aws iam create-user --user-name Sam || aws iam add-user-to-group --user-name Sam --group-name HPOMI-Testing 
