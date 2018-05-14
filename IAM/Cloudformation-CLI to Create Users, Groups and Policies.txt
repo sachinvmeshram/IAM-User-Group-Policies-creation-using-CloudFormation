@@ -1,0 +1,1 @@
+aws cloudformation create-stack --stack-name IAM-Users --capabilities CAPABILITY_NAMED_IAM --template-body file://C:\Complete path of your Template file --parameters file://C:\Complete path of your Parameter file

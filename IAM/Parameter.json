@@ -1,0 +1,15 @@
+[
+  {
+    "ParameterKey": "Password",
+    "ParameterValue": "Sachin"
+  },
+  {
+    "ParameterKey": "UserName",
+    "ParameterValue": "Sachin"
+  }, 
+  {
+    "ParameterKey": "UsersGroup",
+    "ParameterValue": "Developer"
+  
+  }
+]
