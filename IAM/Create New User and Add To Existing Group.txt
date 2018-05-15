@@ -1,0 +1,1 @@
+aws iam create-user --user-name User-01 && aws iam create-access-key --user-name User-01 && aws iam add-user-to-group --user-name User-01 --group-name HPOMI-Testing
